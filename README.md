@@ -1,3 +1,17 @@
+# Casamento Cool
+## Para noivos que fogem do pimba
+
+### Improvisamos a música perfeita e alternativa para a vossa festa de casamento, sem hora para terminar.
+
+De certeza que já foram a casamentos onde a festa acabou mais cedo porque a banda sonora
+não era apropriada e acabaram a dançar o “apita o comboio” porque foram levados pelo
+arrastão.
+A música não é acessória e num dia tão especial tem que ser dinâmica, divertida, que ponha os
+convidados a dançar e que faça valer até de madrugada a festa que prepararam.
+Nós juntamo-nos para vos proporcionar esse dia, somos dj’s profissionais - Phizz e Castor
+Mateus - e vestimos a pele Casamento Cool. Estamos no universo do indie rock e electrónico,
+synth-pop, 80's, 90’s, músicas do mundo, jazz, bossa nova, R&B.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
