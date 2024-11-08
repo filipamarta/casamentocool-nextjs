@@ -11,6 +11,10 @@ https://www.casamentocool.pt/pt
 https://www.casamentocool.pt/en
 
 
+![alt text](https://github.com/filipamarta/casamentocool-nextjs/blob/main/app/%5Blang%5D/opengraph-image.jpg?raw=true)
+
+
+
 ## Getting Started
 
 First, run the development server:
@@ -22,6 +26,6 @@ pnpm dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 
-## Deployed on Vercel
+#### Deployed on Vercel
 
 https://casamentocool-nextjs.vercel.app
