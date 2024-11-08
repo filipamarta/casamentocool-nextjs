@@ -1,0 +1,145 @@
+{
+  "topcarousel": {
+    "title": "Casamento cool",
+    "subtitle": "para noivos que fogem do pimba",
+    "claim": "improvisamos a música perfeita e alternativa para a vossa festa de casamento, sem hora para terminar",
+    "carouselAriaLabel": "Fotografias de Casamentos cool"
+  },
+  "team": {
+    "title": "conhece-nos um bocadinho",
+    "team1": {
+      "name": "Filipa Marta",
+      "djName": "Dj PHIZZ",
+      "imgAltText": "Filipa Marta aka Phizz",
+      "instagram": "Phizz no Instagram",
+      "facebook": "Phizz no Facebook",
+      "mixcloud": "Phizz no Mixcloud",
+      "subtitle": "Phizz é uma dj de Lisboa, que tenta inspirar-vos a dançar indie, electro, synthpop e R&B. No dia-a-dia é Filipa Marta, uma frontend developer que faz websites e apps bem catitas.",
+      "description": "O Djing começou em 2011 e desde então passou por várias mesas de mistura da noite portuguesa e de festivais, entre eles, Musicbox, The Garden Rooftop, Damas, Lounge, Incógnito, Purex, 49 ZDB, Primeiro Andar, Quiosques (Time Out, Bananacafe, Bambu), Plano B, O Bom o Mau e o Vilão, .G, ILGA, Festival DocLisboa 2012 e 2013, Festival IndieLisboa 2013 e 2014, Festival MUVI Lisboa 2014, Festival Vodafone Paredes de Coura 2013, Arraial Pride 2015, Queer As Fuck 2017, Festival Feminista de Lisboa 2018 e 2019."
+    },
+    "team2": {
+      "name": "Filipe Pedro",
+      "djName": "Dj Castor Mateus",
+      "imgAltText": "Filipe Pedro aka Castor Mateus",
+      "instagram": "Castor Mateus no Instagram",
+      "facebook": "Castor Mateus no Facebook",
+      "mixcloud": "Castor Mateus no Mixcloud",
+      "subtitle": "Castor Mateus é o projeto giradisquistas do Filipe Pedro, jornalista da Lusa. Apreciador de rios, lagos e outras superfícies aquosas, Castor Mateus jubila com a descoberta de novos sons independentes (pop/rock/electro/world).",
+      "description": "Incógnito, Roterdão, Sabotage, Bom Mau e Vilão, Capitólio, Cinema São Jorge, Fábrica de Braço de Prata, Fontória, Left, Bartô, Santiago Alquimista, Caixa Económica Operária (Lisboa), Tendinha, Casa de Ló (Porto), Maré de Agosto (Santa Maria, Açores), Paredes de Coura, Vila Nova de Cerveira, Andanças (Carvalhais), Madrid Me Mata 3.0 (Madrid), Planete Mars (Paris) e Bruxelas são alguns clubes, festivais e cidades onde Castor Mateus apresentou as suas descobertas musicais."
+    }
+  },
+  "footer": {
+    "logoAltText": "Casamento Cool logo",
+    "emailAltText": "Casamento cool email",
+    "instagramAltText": "Casamento cool no Instagram",
+    "facebookAltText": "Casamento cool no Facebook",
+    "madeBy": "Design e Desenvolvimento por Filipa Marta",
+    "copyright": "Copyright © 2024 Casamento Cool"
+  },
+  "about": {
+    "text1": "de certeza que já foram a casamentos onde a festa acabou mais cedo pela banda sonora não ser apropriada ou que acabaram a dançar o “apita o comboio” porque foram levados pelo arrastão.",
+    "text2": "a música não é acessória e num dia tão especial tem que ser dinâmica, divertida, que ponha os convidados a dançar e que faça valer até de madrugada a festa que prepararam.",
+    "text3": "nós juntamo-nos para vos proporcionar esse dia, somos dois dj’s profissionais - PHIZZ e Castor Mateus - e vestimos a pele casamento cool."
+  },
+  "services": {
+    "subtitle": "o que fazemos",
+    "service1": {
+      "name": "DJ set",
+      "imgAltText": "DJ"
+    },
+    "service2": {
+      "name": "VJ set",
+      "imgAltText": "VJ"
+    },
+    "service3": {
+      "name": "vamos a qualquer sítio em Portugal",
+      "imgAltText": "Vamos a qualquer sítio em Portugal"
+    },
+    "service4": {
+      "name": "não temos horas para terminar",
+      "imgAltText": "não temos horas para terminar"
+    },
+    "service5": {
+      "name": "usamos o nosso material de som e luzes",
+      "imgAltText": "usamos o nosso material de som e luzes"
+    }
+  },
+  "portfolio": {
+    "subtitle": "quem já se casou “connosco”",
+    "carouselImgAriaLabel": "Quem já se casou connosco"
+  },
+  "packs": {
+    "subtitle": "as nossas condições",
+    "stepsTitle": "#casamentocool por etapas:",
+    "step1": {
+      "stepNumber": "1",
+      "imgAltText": "Casamento cool no cocktail",
+      "description": "recepção aos convidados com muito indie e músicas do mundo, estilo sunset e boa vibe"
+    },
+    "step2": {
+      "stepNumber": "2",
+      "imgAltText": "Casamento cool no jantar",
+      "description": "refeição com música mais calma dentro do jazz, bossa nova, fado e algum indie folk"
+    },
+    "step3": {
+      "stepNumber": "3",
+      "imgAltText": "Casamento cool em festa",
+      "description": "baile até de madrugada com indie rock e electrónico, synthpop, R&B, alguma música dos anos 80 e 90"
+    },
+    "pack1": {
+      "title1": "pack",
+      "title2": "cool base",
+      "text1": "PA HK audio Lucas Nano 600",
+      "text2": "mesa de mistura Pioneer XDJ-R1",
+      "text3": "computador e mesa Traktor Kontrol Z1",
+      "text4": "cds originais e músicas compradas (iTunes, bandCamp, etc)"
+    },
+    "pack2": {
+      "title1": "pack",
+      "title2": "cool avançado",
+      "text1": "(inclui o pack cool base)",
+      "text2": "PA HK audio Lucas Nano 600",
+      "text3": "iPad com wi-fi e Tidal e mesa Reloop Mixtour",
+      "text4": "microfones com e sem fios",
+      "text5": "projetor Benq"
+    },
+    "pack3": {
+      "title1": "pack",
+      "title2": "cool lights",
+      "text1": "painel em 'T' com 4 luzes LED",
+      "text2": "bolas de luzes LED",
+      "text3": "luzes coloridas",
+      "text4": "caixa de luz com textos"
+    },
+    "otherConditions": {
+      "title1": "incluído",
+      "text1": "deslocação",
+      "text2": "montagem e desmontagem do material",
+      "text3": "DJ set",
+      "text4": "10h de música"
+    },
+    "notIncluded": {
+      "title1": "não Incluído",
+      "text1": "a nossa alimentação, duas refeições vegetarianas",
+      "text2": "mesas para colocarmos o nosso material de dj",
+      "text3": "no caso do casamento ser fora de Lisboa, a estadia para duas pessoas"
+    }
+  },
+  "contacts": {
+    "subtitle": "vamos beber um café?",
+    "description1": "como qualquer boa conversa, a nossa faz-se à mesa com um café, onde nos podemos conhecer, saber o que planearam para o vosso 'dia D', gostos musicais e orçamentar a festa.",
+    "description2": "queremos ser parte da solução e a vossa última preocupação.",
+    "ctaText": "Café",
+    "ctaTitle": "Casamento Cool e um Café",
+    "imgAltText": "Casamento Cool e um Café"
+  },
+  "header": {
+    "logoAltText": "Casamento Cool logo",
+    "menu1": "Quem somos",
+    "menu2": "Serviços",
+    "menu3": "Portfólio",
+    "menu4": "Equipa",
+    "menu5": "Condições",
+    "menu6": "Contactos"
+  }
+}

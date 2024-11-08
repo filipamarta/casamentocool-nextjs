@@ -1,0 +1,145 @@
+{
+  "topcarousel": {
+    "title": "Casamento cool",
+    "subtitle": "for brides and grooms who don't like pimba music",
+    "claim": "we improvise the perfect alternative music for your wedding party, with no time to finish",
+    "carouselAriaLabel": "Casamentos cool photos"
+  },
+  "team": {
+    "title": "get to know us a bit",
+    "team1": {
+      "name": "Filipa Marta",
+      "djName": "Dj PHIZZ",
+      "imgAltText": "Filipa Marta aka Phizz",
+      "instagram": "Phizz on Instagram",
+      "facebook": "Phizz on Facebook",
+      "mixcloud": "Phizz on Mixcloud",
+      "subtitle": "Phizz is a dj from Lisbon who tries to inspire you to dance to indie, electro, synthpop and R&B. On a day-to-day basis, she's Filipa Marta, a frontend developer who makes cute websites and apps.",
+      "description": "Djing began in 2011 and since then he has played at various Portuguese nightclubs and festivals, including Musicbox, The Garden Rooftop, Damas, Lounge, Incógnito, Purex, 49 ZDB, Primeiro Andar, Kiosks (Time Out, Bananacafe, Bambu), Plano B, O Bom o Mau e o Vilão, . G, ILGA, DocLisboa Festival 2012 and 2013, IndieLisboa Festival 2013 and 2014, MUVI Lisboa Festival 2014, Vodafone Paredes de Coura Festival 2013, Arraial Pride 2015, Queer As Fuck 2017, Lisbon Feminist Festival 2018 and 2019."
+    },
+    "team2": {
+      "name": "Filipe Pedro",
+      "djName": "Dj Castor Mateus",
+      "imgAltText": "Filipe Pedro aka Castor Mateus",
+      "instagram": "Castor Mateus on Instagram",
+      "facebook": "Castor Mateus on Facebook",
+      "mixcloud": "Castor Mateus on Mixcloud",
+      "subtitle": "Castor Mateus is the giradisquista project of Filipe Pedro, a Lusa journalist. A lover of rivers, lakes and other watery surfaces, Castor Mateus rejoices in the discovery of new independent sounds (pop/rock/electro/world).",
+      "description": "Incógnito, Roterdão, Sabotage, Bom Mau e Vilão, Capitólio, Cinema São Jorge, Fábrica de Braço de Prata, Fontória, Left, Bartô, Santiago Alquimista, Caixa Económica Operária (Lisbon), Tendinha, Casa de Ló (Porto), Maré de Agosto (Santa Maria, Azores), Paredes de Coura, Vila Nova de Cerveira, Andanças (Carvalhais), Madrid Me Mata 3. 0 (Madrid), Planete Mars (Paris) and Brussels are some of the clubs, festivals and cities where Castor Mateus has presented his musical discoveries."
+    }
+  },
+  "footer": {
+    "logoAltText": "Casamento Cool logotype",
+    "emailAltText": "Casamento cool email",
+    "instagramAltText": "Casamento cool on Instagram",
+    "facebookAltText": "Casamento cool on Facebook",
+    "madeBy": "Designed and Developed by Filipa Marta",
+    "copyright": "Copyright © 2024 Casamento Cool"
+  },
+  "about": {
+    "text1": "I'm sure you've been to weddings where the party ended early because the soundtrack wasn't appropriate, or where you ended up dancing to the “train whistle” because you were swept away.",
+    "text2": "music is not an accessory and on such a special day it has to be dynamic, fun, get the guests dancing and make the party you've prepared last until the early hours of the morning.",
+    "text3": "we're two professional DJs - PHIZZ and Castor Mateus - and we're dressed as cool weddings."
+  },
+  "services": {
+    "subtitle": "what we do",
+    "service1": {
+      "name": "DJ set",
+      "imgAltText": "DJ"
+    },
+    "service2": {
+      "name": "VJ set",
+      "imgAltText": "VJ"
+    },
+    "service3": {
+      "name": "We'll go anywhere in Portugal",
+      "imgAltText": "We'll go anywhere in Portugal"
+    },
+    "service4": {
+      "name": "We have no time to finish",
+      "imgAltText": "We have no time to finish"
+    },
+    "service5": {
+      "name": "We use our own sound and lighting equipment",
+      "imgAltText": "We use our own sound and lighting equipment"
+    }
+  },
+  "portfolio": {
+    "subtitle": "who has already married with us",
+    "carouselImgAriaLabel": "Those who have already married with us"
+  },
+  "packs": {
+    "subtitle": "as nossas condições",
+    "stepsTitle": "#casamentocool por etapas:",
+    "step1": {
+      "stepNumber": "1",
+      "imgAltText": "Cocktail with Casamento cool",
+      "description": "recepção aos convidados com muito indie e músicas do mundo, estilo sunset e boa vibe"
+    },
+    "step2": {
+      "stepNumber": "2",
+      "imgAltText": "Dinner with Casamento cool",
+      "description": "refeição com música mais calma dentro do jazz, bossa nova, fado e algum indie folk"
+    },
+    "step3": {
+      "stepNumber": "3",
+      "imgAltText": "Party with Casamento cool",
+      "description": "baile até de madrugada com indie rock e electrónico, synthpop, R&B, alguma música dos anos 80 e 90"
+    },
+    "pack1": {
+      "title1": "pack",
+      "title2": "cool basic",
+      "text1": "PA HK audio Lucas Nano 600",
+      "text2": "mixing desk Pioneer XDJ-R1",
+      "text3": "computer and mixing desk Traktor Kontrol Z1",
+      "text4": "original CDs and purchased music (iTunes, bandCamp, etc)"
+    },
+    "pack2": {
+      "title1": "pack",
+      "title2": "cool advanced",
+      "text1": "(pack cool basic included)",
+      "text2": "PA HK audio Lucas Nano 600",
+      "text3": "iPad with wi-fi and Tidal, mixing desk Reloop Mixtour",
+      "text4": "wired and wireless microphones",
+      "text5": "projector Benq"
+    },
+    "pack3": {
+      "title1": "pack",
+      "title2": "cool lights",
+      "text1": "T-shaped panel with 4 LED lights",
+      "text2": "LED light balls",
+      "text3": "colored lights",
+      "text4": "lightbox with texts"
+    },
+    "otherConditions": {
+      "title1": "included",
+      "text1": "travel to the location",
+      "text2": "assembly and disassembly of material",
+      "text3": "DJ set",
+      "text4": "10 hours of music"
+    },
+    "notIncluded": {
+      "title1": "not included",
+      "text1": "two vegetarian meals",
+      "text2": "tables to put our dj equipment on",
+      "text3": "if the wedding is outside Lisbon, accommodation for two people"
+    }
+  },
+  "contacts": {
+    "subtitle": "shall we have a coffee?",
+    "description1": "Like any good conversation, ours takes place over a cup of coffee, where we can get to know each other, find out what you have planned for your “D-day”, your musical tastes and budget for the party.",
+    "description2": "we want to be part of the solution and your last concern.",
+    "ctaText": "Coffee",
+    "ctaTitle": "Casamento Cool and a coffee",
+    "imgAltText": "Casamento Cool and a coffee"
+  },
+  "header": {
+    "logoAltText": "Casamento Cool logotype",
+    "menu1": "About",
+    "menu2": "Services",
+    "menu3": "Portfolio",
+    "menu4": "Team",
+    "menu5": "Packs",
+    "menu6": "Contacts"
+  }
+}
