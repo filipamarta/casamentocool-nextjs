@@ -1,0 +1,149 @@
+.packs {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: var(--green500);
+  color: white;
+  padding: 10rem 4rem;
+}
+
+.packs h3 {
+  margin-top: 10px;
+}
+
+.packs ul.weddingStages {
+  width: 70%;
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  text-align: center;
+  margin: 60px 0 100px 0;
+}
+
+.packs ul.weddingStages li {
+  max-width: 320px;
+}
+
+.packs ul.weddingStages li img {
+  background-color: white;
+  border-radius: 100%;
+  margin-bottom: 16px;
+  padding: 10px;
+  margin-top: -6px;
+  border: solid 8px var(--green100);
+}
+
+.packs ul.weddingStages li .packImage {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.packs ul.weddingStages li .packImage .packNumber {
+  width: 40px;
+  height: 40px;
+  background-color: var(--green100);
+  color: var(--blue700);
+  border-radius: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: var(--font-primary);
+  font-weight: 700;
+}
+
+.packs ul.packCards,
+.packs ul.packOtherConditions {
+  width: 100%;
+  display: grid;
+  grid-gap: 30px;
+  text-align: center;
+}
+
+.packs ul.packCards {
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.packs ul.packOtherConditions {
+  grid-template-columns: 1fr 1fr;
+  margin-top: 80px;
+}
+
+.packs ul.packCards li h3,
+.packs ul.packOtherConditions li h3 {
+  margin: 0 0 18px 0;
+}
+
+.packs ul.packCards li,
+.packs ul.packOtherConditions li {
+  padding: 40px;
+  border-radius: 30px;
+}
+
+.packs ul.packCards li {
+  background-color: white;
+  color: var(--blue700);
+}
+
+.packs ul.packOtherConditions li {
+  background-color: var(--green100);
+  color: var(--blue700);
+}
+
+.packs ul.packCards li p,
+.packs ul.packOtherConditions li p {
+  border-bottom: 1px solid var(--blue700);
+  padding: 10px 0;
+}
+
+.packs ul.packCards li p:last-child,
+.packs ul.packOtherConditions li p:last-child {
+  border-bottom: none;
+  padding: 8px 0 0 0;
+}
+
+/* Tablet and Smaller Desktop */
+@media (min-width: 701px) and (max-width: 1120px) {
+  .packs ul.weddingStages {
+    width: 100%;
+  }
+
+  .packs ul.packCards {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+/* Mobile */
+@media (max-width: 700px) {
+  .packs {
+    padding: 5rem 2rem;
+    text-align: center;
+  }
+  .packs h3 {
+    margin-top: 20px;
+    line-height: 1.2;
+  }
+
+  .packs ul.weddingStages {
+    width: 100%;
+    flex-flow: wrap;
+  }
+
+  .packs ul.weddingStages li {
+    max-width: 220px;
+  }
+
+  .packs ul.packCards,
+  .packs ul.packOtherConditions {
+    display: flex;
+    flex-direction: column;
+  }
+}
+/* Mobile */
+@media (max-width: 500px) {
+  .packs ul.weddingStages li {
+    max-width: 100%;
+  }
+}
