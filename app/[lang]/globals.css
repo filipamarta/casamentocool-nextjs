@@ -1,0 +1,216 @@
+@import url("https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --max-width: 1100px;
+  --border-radius: 12px;
+  --font-primary: "Bodoni Moda", serif;
+  --font-secondary: "Montserrat", sans-serif;
+  --font-size-xsm: 14px;
+  --font-size-sm: 16px;
+  --font-size-md: 18px;
+  --font-size-lg: 24px;
+  --font-size-xl: 30px;
+  --font-size-xxl: 54px;
+  --font-size-xxxl: 60px;
+  --color-black: #000;
+  --color-white: #fff;
+  --blue100: #cdfbfe;
+  --blue200: #48f2fd;
+  --blue300: #0c7ca3;
+  /*  --blue500: #006992; */
+  --blue500: #4656e7;
+  --blue700: #30343f;
+  --orange500: #fb6923;
+  --green100: #c3e9d8;
+  --green300: #31c16f;
+  --green500: #31946f;
+}
+
+html {
+  background: var(--color-background);
+  scroll-behavior: smooth;
+  font-optical-sizing: auto;
+}
+
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+  margin: 0 auto;
+  padding: 0;
+  font-family: var(--font-secondary);
+  font-optical-sizing: auto;
+  font-style: normal;
+  color: var(--color-text);
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  color: currentColor;
+  text-decoration: none;
+}
+button {
+  font: inherit;
+  background: none;
+  border: 0;
+  color: currentColor;
+  cursor: pointer;
+}
+strong,
+b {
+  font-weight: 600;
+}
+
+h1,
+h2,
+h3,
+/* h4, */
+h5,
+h6,
+header ul li a {
+  font-family: var(--font-primary);
+  font-size: inherit;
+  font-weight: inherit;
+  line-height: inherit;
+}
+
+h1 {
+  color: var(--green);
+  font-size: var(--font-size-xxl);
+  font-weight: 900;
+}
+h2 {
+  color: var(--green);
+  font-size: var(--font-size-xxl);
+  font-weight: 900;
+}
+
+h3 {
+  color: var(--green);
+  font-size: var(--font-size-lg);
+  font-weight: 900;
+}
+
+p,
+blockquote {
+  font-family: var(--font-secondary);
+  font-size: var(--font-size-md);
+  line-height: 1.4;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+}
+
+/* Mobile */
+@media (max-width: 700px) {
+  h2 {
+    font-size: 38px;
+    line-height: 1.2;
+  }
+}
+
+/* react-responsive-carousel OVERRIDE */
+
+.top-carousel-element .carousel .control-dots {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  right: 0;
+  transform: translate(-50%);
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 20px;
+  padding: 0;
+  text-align: center;
+  width: fit-content;
+  z-index: 2;
+}
+
+#portfolio .carousel .slider-wrapper {
+  margin-top: 80px;
+}
+#portfolio .carousel.carousel-slider {
+  position: inherit;
+}
+#portfolio ul.control-dots {
+  justify-content: center;
+  top: -20px;
+  z-index: 0;
+}
+#portfolio ul.control-dots .dot {
+  background-color: transparent;
+  width: 20px;
+  height: 20px;
+  margin: 12px;
+  border: 5px solid var(--blue100);
+  transition: all 0.2s ease-in-out;
+  position: relative;
+  bottom: 0;
+  box-shadow: inset 1px 1px 2px rgba(0, 0, 0, 0.9);
+}
+#portfolio ul.control-dots .dot:first-child {
+  margin-left: 0;
+}
+#portfolio ul.control-dots .dot:hover {
+  bottom: 3px;
+  transition: all 0.2s ease-in-out;
+}
+#portfolio ul.control-dots .dot.selected {
+  background-color: var(--blue100);
+  box-shadow: none;
+}
+#portfolio ul.slider {
+  align-items: center;
+  width: 100%;
+  column-gap: 1rem;
+}
+#portfolio ul.slider li.slide {
+  width: 100%;
+  max-width: 100%;
+}
+
+@media (max-width: 991px) {
+  #portfolio ul.slider li.slide {
+    min-width: 75% !important;
+  }
+}
+/* Mobile */
+@media (max-width: 700px) {
+  #top-carousel .carousel .slider-wrapper {
+    width: 1175px !important;
+    position: relative;
+    left: -60%;
+  }
+  #portfolio ul.slider {
+    column-gap: 1rem;
+    margin-right: 1rem;
+    margin-left: 1rem;
+    align-items: baseline;
+  }
+  #portfolio .carousel .slider-wrapper {
+    width: 100%;
+    max-width: 100%;
+    min-width: 100% !important;
+  }
+}
+@media (max-width: 565px) {
+  #portfolio ul.slider {
+    width: 100%;
+  }
+  #portfolio ul.slider li.slide {
+    width: 100%;
+    max-width: 100%;
+    min-width: 75% !important;
+  }
+}
+/* react-responsive-carousel OVERRIDE END */
